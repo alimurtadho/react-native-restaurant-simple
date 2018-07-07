@@ -1,16 +1,8 @@
-# BURGER ME
-
-## Fluent Conf 2017
-
-![](http://i.imgur.com/kNlzT1x.jpg)  
-
-### React Native: An exhaustive introduction
-
 To get started:
 
 1. Clone the repo
 ```
-git clone https://github.com/react-native-training/fluent-conf-restaurant-app.git
+git clone https://github.com/alimurtadho/react-native-restaurant-simple.git
 ```
 
 2. cd into directory
